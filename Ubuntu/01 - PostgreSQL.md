@@ -27,7 +27,7 @@ sudo apt update
 Instalamos `PostgreSQL`:
 
 ```bash
-sudo apt install postgresql-13 postgresql-client-13
+sudo apt install postgresql-14 postgresql-client-14
 ```
 
 Iniciamos sesión con el usuario `postgres`:
