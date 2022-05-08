@@ -1,6 +1,6 @@
 # 04 - Instalación de PHP en Ubuntu
 
-Para poder disfrutar de las últimas versiones de `PHP 8.1` y sus extensiones, añadimos el siguiente repositorio:
+Para poder disfrutar de las últimas versiones de `PHP` y sus extensiones, añadimos el siguiente repositorio:
 
 ```bash
 sudo add-apt-repository -y ppa:ondrej/php
